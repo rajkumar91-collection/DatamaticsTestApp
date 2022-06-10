@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatamaticsTestApp</string>
+    <string name="below_string">\n\nBelow are the toppings available :</string>
+</resources>
